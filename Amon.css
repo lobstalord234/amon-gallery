@@ -1,0 +1,15 @@
+html {
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.a {
+    word-wrap: break-word;
+}
+
+h1 {
+    width: 400px;
+    border: 1px solid black;
+    margin: 20px;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
